@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_fragment_label">Normal</string>
+    <string name="second_fragment_label">Escalável</string>
+
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+
+    <string name="hello_dear">Olá querido(a)!</string>
+</resources>
